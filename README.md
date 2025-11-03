@@ -24,9 +24,9 @@ Three different datasets were selected to allow the projects to naturally align 
 
 | Methodology | Project Focus | Dataset Source | Directory |
 | :--- | :--- | :--- | :--- |
-| **CRISP-DM** (Cross-Industry Standard Process for Data Mining) | End-to-End Business Solution (Full Cycle) | Kaggle/Papers With Code | `/crisp-dm_project` |
-| **SEMMA** (Sample, Explore, Modify, Model, Assess) | Focus on Data Manipulation and Modeling | Kaggle/Papers With Code | `/semma_project` |
-| **KDD** (Knowledge Discovery in Databases) | Focus on Pattern Extraction and Knowledge Generation | Kaggle/Papers With Code | `/kdd_project` |
+| **CRISP-DM** (Cross-Industry Standard Process for Data Mining) | End-to-End Business Solution (Full Cycle) | Kaggle/Papers With Code | `/crisp-dm` |
+| **SEMMA** (Sample, Explore, Modify, Model, Assess) | Focus on Data Manipulation and Modeling | Kaggle/Papers With Code | `/semma` |
+| **KDD** (Knowledge Discovery in Databases) | Focus on Pattern Extraction and Knowledge Generation | Kaggle/Papers With Code | `/kdd` |
 
 -----
 
