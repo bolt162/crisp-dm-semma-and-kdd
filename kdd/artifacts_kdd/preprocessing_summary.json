@@ -1,0 +1,12 @@
+{
+  "total_samples": 50000,
+  "train_samples": 30000,
+  "val_samples": 10000,
+  "test_samples": 10000,
+  "num_features": 5,
+  "outliers_detected": 59,
+  "outliers_retained": true,
+  "scaling_method": "RobustScaler",
+  "encoding_method": "LabelEncoder",
+  "split_ratio": "60/20/20"
+}

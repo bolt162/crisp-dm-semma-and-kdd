@@ -1,0 +1,8 @@
+{
+  "model_name": "Lasso",
+  "model_type": "<class 'sklearn.linear_model._coordinate_descent.Lasso'>",
+  "val_rmse": 49738.4197,
+  "val_r2": 0.5717,
+  "test_rmse": 49370.3786,
+  "test_r2": 0.5754
+}

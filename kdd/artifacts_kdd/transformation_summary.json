@@ -1,0 +1,52 @@
+{
+  "original_features": [
+    "SquareFeet",
+    "Bedrooms",
+    "Bathrooms",
+    "Neighborhood_Encoded",
+    "YearBuilt"
+  ],
+  "engineered_features": [
+    "SquareFeet",
+    "Bedrooms",
+    "Bathrooms",
+    "Neighborhood_Encoded",
+    "YearBuilt",
+    "House_Age",
+    "Is_New",
+    "Is_Vintage",
+    "Total_Rooms",
+    "Room_Ratio",
+    "SqFt_Per_Room",
+    "SqFt_x_Neighborhood"
+  ],
+  "num_engineered_features": 12,
+  "pca_components": 4,
+  "pca_variance_retained": 0.9571481346231602,
+  "lasso_features_retained": 7,
+  "lasso_optimal_alpha": 65.79332246575683,
+  "top_features_by_lasso": {
+    "SquareFeet": 98744.85310580337,
+    "Bedrooms": 5276.038850295133,
+    "Total_Rooms": 5075.780363111185,
+    "Neighborhood_Encoded": 1119.6667863020814,
+    "SqFt_Per_Room": -207.16000051415676,
+    "Room_Ratio": 171.7865454661276,
+    "YearBuilt": -33.077742236594595,
+    "Bathrooms": 0.0,
+    "Is_Vintage": 0.0,
+    "Is_New": 0.0
+  },
+  "top_features_by_correlation": {
+    "Price": 1.0,
+    "SquareFeet": 0.7489904357221517,
+    "SqFt_Per_Room": 0.2792069683734888,
+    "Total_Rooms": 0.0804750465487923,
+    "Bedrooms": 0.07629747288537471,
+    "Bathrooms": 0.031928994937509246,
+    "Room_Ratio": 0.021235845124122493,
+    "Neighborhood_Encoded": 0.01777960906717697,
+    "House_Age": 0.005020429210292216,
+    "YearBuilt": -0.005020429210272439
+  }
+}

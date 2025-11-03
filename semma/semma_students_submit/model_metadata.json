@@ -1,0 +1,12 @@
+{
+  "best_model_classification": "Random Forest",
+  "best_model_regression": "Random Forest Regressor",
+  "test_accuracy": 0.6962025316455697,
+  "test_auc": 0.6328011611030478,
+  "test_f1": 0.7894736842105263,
+  "pass_threshold": 10,
+  "random_seed": 42,
+  "training_date": "2025-10-28 23:30:39",
+  "feature_count": 45,
+  "training_samples": 237
+}

@@ -1,0 +1,25 @@
+{
+  "target_variable": "Price",
+  "selected_features": [
+    "SquareFeet",
+    "Bedrooms",
+    "Bathrooms",
+    "Neighborhood",
+    "YearBuilt"
+  ],
+  "num_features": 5,
+  "dataset_shape": [
+    50000,
+    6
+  ],
+  "numeric_features": [
+    "SquareFeet",
+    "Bedrooms",
+    "Bathrooms",
+    "YearBuilt"
+  ],
+  "categorical_features": [
+    "Neighborhood"
+  ],
+  "selection_rationale": "All features domain-relevant and retained"
+}

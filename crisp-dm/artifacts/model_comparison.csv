@@ -1,0 +1,4 @@
+Model,Best_Params,CV_Mean_AUC,CV_Std_AUC,Val_AUC
+Logistic Regression,"{'C': 10, 'max_iter': 1000, 'penalty': 'l2', 'solver': 'lbfgs'}",0.8669230655019197,0.010560045367104387,0.837044356609574
+XGBoost,"{'subsample': 0.8, 'n_estimators': 200, 'max_depth': 5, 'learning_rate': 0.1, 'colsample_bytree': 1.0}",0.9382487406179457,0.0038998104760270837,0.8222299723578496
+Random Forest,"{'n_estimators': 200, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 'sqrt', 'max_depth': 20}",0.9297983817642198,0.0026494698690169498,0.8144862951768324

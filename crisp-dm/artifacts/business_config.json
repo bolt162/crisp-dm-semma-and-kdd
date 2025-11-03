@@ -1,0 +1,46 @@
+{
+  "project": {
+    "name": "Telco Customer Churn Prediction",
+    "version": "1.0.0",
+    "date": "2025-10-28",
+    "methodology": "CRISP-DM"
+  },
+  "business_objective": "Predict customer churn to enable proactive retention",
+  "use_case": "Monthly batch scoring for retention campaigns",
+  "success_metrics": {
+    "primary": {
+      "metric": "ROC AUC",
+      "target": 0.8,
+      "description": "Measures discrimination between churners and non-churners"
+    },
+    "secondary": {
+      "recall_at_top_10": {
+        "metric": "Recall @ Top 10%",
+        "target": 0.4,
+        "description": "Percentage of churners in top 10% predictions"
+      },
+      "precision": {
+        "metric": "Precision",
+        "target": 0.6,
+        "description": "Accuracy of churn predictions"
+      },
+      "f1_score": {
+        "metric": "F1 Score",
+        "target": 0.6,
+        "description": "Harmonic mean of precision and recall"
+      }
+    }
+  },
+  "assumptions": [
+    "Historical patterns remain relevant",
+    "Data is representative of current customer base",
+    "Quarterly model retraining planned",
+    "30-day window for retention interventions"
+  ],
+  "risks": [
+    "Data quality issues",
+    "Class imbalance",
+    "Concept drift over time",
+    "Fairness concerns across segments"
+  ]
+}

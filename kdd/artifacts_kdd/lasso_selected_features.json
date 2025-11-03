@@ -1,0 +1,11 @@
+{
+  "selected_features": [
+    "SquareFeet",
+    "Bedrooms",
+    "Total_Rooms",
+    "Neighborhood_Encoded",
+    "SqFt_Per_Room",
+    "Room_Ratio",
+    "YearBuilt"
+  ]
+}

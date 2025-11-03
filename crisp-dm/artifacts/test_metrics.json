@@ -1,0 +1,20 @@
+{
+  "model": "Logistic Regression",
+  "test_roc_auc": 0.8396936113048644,
+  "test_pr_auc": 0.6249725038094486,
+  "test_precision": 0.5148861646234676,
+  "test_recall": 0.786096256684492,
+  "test_f1": 0.6222222222222222,
+  "test_recall_top10": 0.27807486631016043,
+  "optimal_threshold": 0.4545454545454546,
+  "confusion_matrix": [
+    [
+      758,
+      277
+    ],
+    [
+      80,
+      294
+    ]
+  ]
+}
