@@ -66,6 +66,6 @@ The final required artifacts, including the Medium articles and YouTube video wa
 
 ### Code Walkthrough Videos
 
-1.  **CRISP-DM Walkthrough:** [CRISP-DM YouTube Drive Link](https://www.google.com/search?q=PLACEHOLDER_FOR_CRISP-DM_YOUTUBE_DRIVE_LINK)
-2.  **SEMMA Walkthrough:** [SEMMA YouTube Drive Link](https://www.google.com/search?q=PLACEHOLDER_FOR_SEMMA_YOUTUBE_DRIVE_LINK)
-3.  **KDD Walkthrough:** [KDD YouTube Drive Link](https://www.google.com/search?q=PLACEHOLDER_FOR_KDD_YOUTUBE_DRIVE_LINK)
+1.  **CRISP-DM Walkthrough:** [CRISP-DM YouTube Drive Link](http://tiny.cc/h0ju001)
+2.  **SEMMA Walkthrough:** [SEMMA YouTube Drive Link](http://tiny.cc/adsfkasdlfkj)
+3.  **KDD Walkthrough:** [KDD YouTube Drive Link](http://tiny.cc/g0ju001)
